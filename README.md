@@ -220,3 +220,21 @@ arduino-uno-water-quality-monitor/
 ├── requirements.txt
 ├── project photos
 └── README.md
+
+## Results
+
+The prototype successfully demonstrated:
+
+→ Real-time reading of pH, turbidity, and TDS-related sensor values
+
+→ Classification of water quality into GREEN, YELLOW, and RED conditions
+
+→ Visual indication using three LEDs
+
+→ Serial communication between Arduino Uno and Python
+
+→ Automatic detection of water-quality status changes
+
+→ WhatsApp alert generation for selected status transitions
+
+The prototype demonstrates the basic integration of sensors, embedded programming, serial communication, and software-based alerting.
