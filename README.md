@@ -203,3 +203,12 @@ Programming assistance was used during implementation as part of the learning pr
 ## Note
 
 This project is a student prototype and is not intended to replace certified laboratory-based water-quality testing or regulatory standards.
+
+## Here some photos of the working prototype
+<img width="720" height="1600" alt="WhatsApp Image 2026-09-10 at 5 01 13 PM" src="https://github.com/user-attachments/assets/2d30cef2-c9b3-4f2f-afa5-cdfe07cd2f30" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-10 at 4 56 45 PM" src="https://github.com/user-attachments/assets/c61a3323-f72e-414d-b632-ef3edbef3857" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-10 at 4 56 45 PM (1)" src="https://github.com/user-attachments/assets/ceff3281-347d-4bd0-8eaf-a863c8a6c48a" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-10 at 4 56 46 PM" src="https://github.com/user-attachments/assets/facccab8-dcb3-44b2-aafa-cc792116dbaf" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-09-10 at 5 01 13 PM (1)" src="https://github.com/user-attachments/assets/a1c7c4d3-0a94-443a-8f46-7417dc188eaf" />
+
+
