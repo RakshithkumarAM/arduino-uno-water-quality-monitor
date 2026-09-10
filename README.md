@@ -211,4 +211,12 @@ This project is a student prototype and is not intended to replace certified lab
 <img width="899" height="1599" alt="WhatsApp Image 2026-09-10 at 4 56 46 PM" src="https://github.com/user-attachments/assets/facccab8-dcb3-44b2-aafa-cc792116dbaf" />
 <img width="720" height="1600" alt="WhatsApp Image 2026-09-10 at 5 01 13 PM (1)" src="https://github.com/user-attachments/assets/a1c7c4d3-0a94-443a-8f46-7417dc188eaf" />
 
+## Project Structure
 
+arduino-uno-water-quality-monitor/
+│
+├── water_quality_monitor.ino
+├── water_quality_alert.py
+├── requirements.txt
+├── project photos
+└── README.md
